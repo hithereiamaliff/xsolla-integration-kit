@@ -1,0 +1,7 @@
+# Keys: never commit these
+.env
+
+# The demo store's data
+data/
+
+node_modules/
